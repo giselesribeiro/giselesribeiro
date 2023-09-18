@@ -1,5 +1,5 @@
 ##Olá! Eu sou a Gisele Ribeiro
 
 - ❤️ Me apaixonei por tecnologia
-- 🌱 Estudando Python
+- 🌱 Estudando JavaScript
 - 😄 Pronomes: ela/dela
